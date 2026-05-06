@@ -1,0 +1,15 @@
+# Dataset (too large)
+dataset/
+India/
+
+# Output results
+output/
+
+# Images (optional)
+*.png
+
+# MATLAB temporary files
+*.asv
+
+# System files
+*.lnk
